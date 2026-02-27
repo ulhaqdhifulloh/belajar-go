@@ -1,3 +1,3 @@
-module example.com/hello
+module belajar-go
 
 go 1.25.5
